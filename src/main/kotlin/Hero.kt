@@ -1,6 +1,6 @@
 package org.example
 
-class Enemy(): Character {
+class Hero(): Character {
     var damage = 10
     var healthPoint = 100
 
