@@ -1,4 +1,4 @@
-package org.example
+package org.example.InterfaceStudy
 
 class Enemy(): Character {
     var damage = 10

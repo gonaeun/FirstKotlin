@@ -1,4 +1,4 @@
-package org.example
+package org.example.InterfaceStudy
 
 // 인터페이스
 // 특정 기능을 가진 메소드의 집합을 정의하는 추상화 구조
